@@ -1,0 +1,4 @@
+dist
+__pycache__
+/pywin_env_shift.egg-info
+/.idea
